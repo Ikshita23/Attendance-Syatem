@@ -1,1 +1,1 @@
-# Attendance-Syatem
+# Attendance-System
